@@ -25,6 +25,6 @@ $ docker-compose up -d
 - mysql_exporter
 
 ## Dashboard
-- OS Metrics
-- Redis/RedisCluster
+- [OS Metrics](https://grafana.com/grafana/dashboards/405)
+- [Redis/RedisCluster](https://grafana.com/grafana/dashboards/763)
 - MySQL/InnoDB
