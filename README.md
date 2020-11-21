@@ -3,6 +3,9 @@ Sample code for monitoring, grafana and prometheus
 
 <img width=80% src="https://user-images.githubusercontent.com/1712116/84417854-32a19480-ac51-11ea-9f53-53a28a9e5eb1.png"/>
 
+# Architecture
+![oppai_monitoring](https://user-images.githubusercontent.com/1712116/99880096-a01c0d00-2c54-11eb-8059-165233567a01.png)
+
 # How to use
 
 ```
